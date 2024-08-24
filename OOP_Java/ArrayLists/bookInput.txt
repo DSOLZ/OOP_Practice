@@ -1,0 +1,6 @@
+Intro to Java,JAMES,56.99
+Advanced Java,Green,65.99
+Java Servlets,Brown,75.99
+Intro to HTML,James,29.49
+Intro to Flash,James,34.99
+Advanced HTML,Green,56.99
